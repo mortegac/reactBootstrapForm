@@ -13,7 +13,7 @@ create-react-app app
 cd Myapp
 npm start
 ```
-### INSTALACION MTERIAL UI:
+### INSTALACION REACTSTRAP (BOOSTRAP-REACT):
 ```
 npm install bootstrap@4.0.0-alpha.6 --save
 npm install --save reactstrap react-transition-group react react-dom
