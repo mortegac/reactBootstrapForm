@@ -14,6 +14,8 @@ cd Myapp
 npm start
 ```
 ### INSTALACION REACTSTRAP (BOOSTRAP-REACT):
+[a link](https://reactstrap.github.io/components/buttons/)
+[a link](https://github.com/reactstrap/reactstrap)
 ```
 npm install bootstrap@4.0.0-alpha.6 --save
 npm install --save reactstrap react-transition-group react react-dom
